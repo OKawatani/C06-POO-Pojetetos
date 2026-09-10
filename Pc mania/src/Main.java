@@ -37,6 +37,7 @@ public class Main {
         MemoriaUSB memoria2 = new MemoriaUSB("Pen drive", 32);
         MemoriaUSB memoria3 = new MemoriaUSB("HD Externo", 1000);
 
+        //Colocando os objetos em um array para poder mandar para o metodo menu da classe cliente
         Computador[] catalogo = {computador1, computador2, computador3};
         MemoriaUSB[] memorias = {memoria1, memoria2, memoria3};
         cliente.menu(catalogo, memorias);

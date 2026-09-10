@@ -40,7 +40,7 @@ public class Cliente {
         do {
             System.out.println("\nPcMania");
             System.out.println("1- Realizar compras ");
-            System.out.println("2- Adicionar Memoria RAM ");
+            System.out.println("2- Adicionar Memoria USB");
             System.out.println("0- Sair");
 
             opcao = input.nextInt();

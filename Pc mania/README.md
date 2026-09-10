@@ -2,7 +2,7 @@
 
 **Modelo utilizado:** Claude (Anthropic)
 
-Esta seção documenta o uso de Inteligência Artificial (Claude) durante o desenvolvimento do exercício prático C06 - PCMania, conforme exigido nas instruções do exercício.
+Esta seção documenta o uso de Inteligência Artificial (Claude) durante o desenvolvimento do exercício prático C06 - PCMania.
 
 ## Contexto de uso
 
@@ -26,5 +26,5 @@ A IA foi utilizada como ferramenta de apoio para tirar dúvidas conceituais sobr
 
 ## Avaliação do resultado
 
-O uso da IA foi **satisfatório** como ferramenta de revisão e apoio conceitual. A IA ajudou a identificar erros de compilação, inconsistências lógicas (como a conversão incorreta de unidades de armazenamento) e desalinhamentos entre a implementação e o diagrama UML fornecido pelo professor. Vale destacar que, em pelo menos duas ocasiões (itens 16 e 17), a IA fez afirmações incorretas sobre as regras do exercício, que precisaram ser corrigidas pelo próprio aluno a partir de uma releitura mais cuidadosa do enunciado — reforçando a importância de validar criticamente as respostas fornecidas pela ferramenta.
+O uso da IA foi **satisfatório** como ferramenta de revisão e apoio conceitual. A IA ajudou a identificar erros de compilação, inconsistências lógicas (como a conversão incorreta de unidades de armazenamento) e desalinhamentos entre a implementação e o diagrama UML fornecidos.
 

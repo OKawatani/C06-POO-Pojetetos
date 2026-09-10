@@ -6,7 +6,7 @@ Esta seção documenta o uso de Inteligência Artificial (Claude) durante o dese
 
 ## Contexto de uso
 
-A IA foi utilizada como ferramenta de apoio para tirar dúvidas conceituais sobre composição e agregação em UML/POO, revisar trechos de código já escritos pelo autor, e identificar inconsistências entre a implementação e o diagrama/enunciado fornecidos pelo professor. O código final foi escrito e ajustado pelo próprio aluno a partir dessas orientações.
+A IA foi utilizada como ferramenta de apoio para tirar dúvidas conceituais sobre composição e agregação em UML/POO, revisar trechos de código já escritos, e identificar inconsistências entre a implementação e o diagrama/enunciado fornecidos.
 
 ## 
 

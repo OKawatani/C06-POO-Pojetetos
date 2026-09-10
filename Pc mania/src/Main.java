@@ -1,4 +1,3 @@
-import java.util.Scanner;
 import Cliente.Cliente;
 import Computador.Computador;
 import Computador.MemoriaUSB;
@@ -8,11 +7,12 @@ public class Main {
     public static void main(String[] args) {
 
         //Criando o cadastro do cliente
+        
         Cliente cliente = new Cliente("Flavin from the tire", "123.456.789-67");
 
 
         // Montando os computadores
-
+        
         Computador computador1 = new Computador(
                 "Apple", 668, "MacOS Sequoia", 64,
                 new String[]{"Pentium Core i5", "Memoria RAM", "HD"},
@@ -38,6 +38,7 @@ public class Main {
         MemoriaUSB memoria3 = new MemoriaUSB("HD Externo", 1000);
 
         //Colocando os objetos em um array para poder mandar para o metodo menu da classe cliente
+        
         Computador[] catalogo = {computador1, computador2, computador3};
         MemoriaUSB[] memorias = {memoria1, memoria2, memoria3};
         cliente.menu(catalogo, memorias);
